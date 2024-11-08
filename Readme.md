@@ -1,4 +1,4 @@
-# Future Climatology Changes in Cities across Diver Climate Zones
+# Future Climatology Changes in Cities across Diverse Climate Zones
 
 ## Scientific Question
 
