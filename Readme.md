@@ -1,5 +1,4 @@
-# Project Proposal: Future Climatology Changes of Cities within Different Climate Zones
-<br>
+# Future Climatology Changes of Cities within Different Climate Zones
 
 ## Scientific Question
 
@@ -17,17 +16,21 @@ https://github.com/leap-stc/cmip6-leap-feedstock
 ## Analysis
 
 1) Impact of Humidity on Heat Stress  
-   Select six cities representative of distinct climate zones, calculate and compare the heat wave index (total days with t_max exceeding 95% percentile of climatology) as well as humid heat wave index of current climate (1991-2020) and future climate (2071-2100).
+   Select six cities representative of distinct climate zones, calculate and compare the heat wave index (total days with t_max exceeding 95% percentile of climatology) as well as humid heat wave index of current climate (1991-2020) and future climate (2071-2100).  
+   <br>
 2) Frequency and Risks of Extreme Events  
-   Utilize heat wave index, Rx5day, CDD (Consecutive Dry Days) to explore future extreme events frequency change, and carry out correlation analysis between different climate drivers (evapotranspiration, temperature, precipitation) to evaluate the risks of potential compound hazards.
+   Utilize heat wave index, Rx5day, CDD (Consecutive Dry Days) to explore future extreme events frequency change, and carry out correlation analysis between different climate drivers (evapotranspiration, temperature, precipitation) to evaluate the risks of potential compound hazards.  
+   <br>
 3) “Wonkiness” and Instability of City Climatology  
    Calculate the standard deviation, monthly range, and autocorrelation within the month of air temperature and precipitation to reflect the future change of city climate wonkiness and instability across different climate zones.
 
 ## Outcomes
 
 1) Humidity’s Role in Future Heat Stress  
-   Determine whether humidity will aggravate or cushion future heat stress in cities within different climate zones, providing insights into regional vulnerabilities.
+   Determine whether humidity will aggravate or cushion future heat stress in cities within different climate zones, providing insights into regional vulnerabilities.  
+   <br>
 2) Changes in Extreme Event Frequency and Impact  
-   Clarify to what extent future frequency and intensity of extreme event will increase, particularly for cities where dramatic shifts might occur.
+   Clarify to what extent future frequency and intensity of extreme event will increase, particularly for cities where dramatic shifts might occur.  
+   <br>
 3) "Wonkiness" of Future Climate  
    Illustrate projected changes in climate wonkiness, helping to communicate how shifts in monthly and seasonal weather stability will affect the lived experiences in cities with varying climate zone classifications.
